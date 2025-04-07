@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "MiApp",
+    "slug": "MiApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "extra": {
+      "supabaseUrl": "https://jjnsdvbmjopxqeplbzab.supabase.co",
+      "supabaseKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpqbnNkdmJtam9weHFlcGxiemFiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDI4MzE2MDcsImV4cCI6MjA1ODQwNzYwN30.g78wBxd6WFyfDP4gF9UMyl6CDsUGVaaALJs_EGI0eXo",
+      "eas": {
+        "projectId": "08f593e1-809e-4776-bab1-f132f1d42896"
+      }
+    },
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.MiApp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.MiApp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "owner": "josem_02"
+  }
+}
